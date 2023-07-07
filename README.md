@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   💻 I love Front End Development, and have a passion for the world of Music 🎵 and AI ‼
   
   <br>
+  <br>
   📫 How to reach me 👇
 </p>
 <p align="center"> <a href="https://www.linkedin.com/in/jacob-fecunda-40047b184/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:jacobfecunda@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=23></a> 
