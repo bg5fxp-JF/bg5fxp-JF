@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   Hi, I'm Jacob a Software Developer from London
   <br>
   <br>
-  👨🏽‍🎓 I'm a recent graduate from Brunel University with a First Class in Computer Science in Artifical Intelligence (BSc)
+  👨🏽‍🎓 I'm a recent graduate from Brunel University with a First Class Award in Computer Science in Artifical Intelligence (BSc)
   <br>
   💻 I love Front End Development, and have a passion for the world of Music 🎵 and AI ‼
   
