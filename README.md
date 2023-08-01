@@ -45,6 +45,7 @@ Here are some ideas to get you started:
   <img title="Seaborn" height="25" src="images/seaborn.svg">
   <img title="Scikit Learn" height="25" src="images/Scikit_learn.svg">
   <img title="Java" height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
+  <img title="SQL" height="25" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
   <img title="HTML5" height="25" src="images/html5.svg">
   <img title="CSS" height="25" src="images/css.svg">
   <img title="Javascript" height="25" src="images/javascript.svg">
