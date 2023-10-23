@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center"> <a href="https://www.linkedin.com/in/jacob-fecunda-40047b184/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:jacobfecunda@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=23></a> 
 
-<hr>
-[![Bg5fxp's GitHub stats](https://github-readme-stats.vercel.app/api?username=bg5fxp-JF)]
+
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
