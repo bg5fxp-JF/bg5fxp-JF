@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <br>
   👨🏽‍🎓 I'm a graduate from Brunel University with a First Class Award in Computer Science in Artifical Intelligence (BSc)
   <br>
-   ⛓ Currently focusing on building DApps on the Ethreum Network and some of its L2s (Blast 🚀). 
+   ⛓ Currently focusing on building DApps on the Ethreum Network and some of its L2s. 
   <br>
    🔐 Also exploring security on Chain, learning the best practices for Smart Contract audits.
   <br>
