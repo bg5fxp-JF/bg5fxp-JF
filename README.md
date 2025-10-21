@@ -13,26 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello...+I'm+Jacob;I+love+all+things+Blockchain+%E2%9A%9B%EF%B8%8F+;Music+%F0%9F%8E%B5;And+AI+%F0%9F%A6%BE" alt="Typing SVG" /></a>
 </h1>
-   
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
+-->
+   
 <p align="center">
-  Hi, I'm Jacob a Full-Stack Blockchain Developer from London
-  <br>
-  <br>
-  👨🏽‍🎓 I'm a graduate from Brunel University with a First Class Award in Computer Science in Artifical Intelligence (BSc)
-  <br>
-   ⛓ Currently focusing on building DApps on the Ethreum Network and some of its L2s. 
-  <br>
-   🔐 Also exploring security on Chain, learning the best practices for Smart Contract audits.
-  <br>
-  😎 In my free time, I experiment with two of my favourite subjects, Music 🎵 and AI. The combination can produce some crazy results‼
-  
-  <br>
-  <br>
   📫 How to reach me 👇
 </p>
 <p align="center"> <a href="https://www.linkedin.com/in/jacob-fecunda"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:jacobfecunda@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=23></a> 
